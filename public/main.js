@@ -1,4 +1,4 @@
-const API_URL = ""; // Isi dengan URL Web App Google Apps Script setelah deploy.
+const API_URL = "https://script.google.com/macros/s/AKfycbzeFZ9DZD5tQDyh-cdp29MVZlT8-juA65PBifseEl13A529mEUGIn9-sjftXSaUO-pGSg/exec"; // Isi dengan URL Web App Google Apps Script setelah deploy.
 const $ = (s, root=document) => root.querySelector(s);
 const $$ = (s, root=document) => [...root.querySelectorAll(s)];
 const DEFAULTS = {
