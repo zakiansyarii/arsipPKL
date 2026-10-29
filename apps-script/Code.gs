@@ -9,7 +9,7 @@
  * Jangan simpan password teks biasa. Buat hash SHA-256 dengan fungsi hashPassword()
  * di bawah, jalankan dari editor Apps Script, lalu salin hasil hash ke kolom B.
  */
-const SPREADSHEET_ID = "GANTI_DENGAN_ID_GOOGLE_SHEET";
+const SPREADSHEET_ID = "1oydZ65_Wyctd7RqceriVhu_9A4cxVzjKDcLyqaH63MU";
 const SESSION_TTL_SECONDS = 21600;
 const CONTENT_KEY = "public_content";
 
